@@ -13,7 +13,7 @@ print("Financiamento Aprovado");
 
 }
 else  {
-print("Financiamento Negado");
+print("Financiamento Negado:");
 
 }
 
